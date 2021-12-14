@@ -1,0 +1,16 @@
+ /* style.css */
+
+ .simp,
+ .yella {
+     font-size: 28px;
+     font-family: Helvetica, "Times New Roman", sans-serif;
+ }
+
+ .simp {
+     color: white;
+     background-color: black;
+ }
+
+ .yella {
+     background-color: yellow;
+ }
